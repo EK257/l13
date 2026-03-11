@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\l13\l13\bin\Debug\net10.0-windows\l13.exe
+C:\Users\USER\source\repos\l13\l13\bin\Debug\net10.0-windows\l13.deps.json
+C:\Users\USER\source\repos\l13\l13\bin\Debug\net10.0-windows\l13.runtimeconfig.json
+C:\Users\USER\source\repos\l13\l13\bin\Debug\net10.0-windows\l13.dll
+C:\Users\USER\source\repos\l13\l13\bin\Debug\net10.0-windows\l13.pdb
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.Form1.resources
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.AssemblyInfo.cs
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.dll
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\refint\l13.dll
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.pdb
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\l13.genruntimeconfig.cache
+C:\Users\USER\source\repos\l13\l13\obj\Debug\net10.0-windows\ref\l13.dll
