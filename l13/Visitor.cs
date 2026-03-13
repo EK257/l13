@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -20,9 +20,9 @@ namespace l13
             return name;
         }
 
-        public static String ShowTotalVisitors()
+        public static int ShowTotalVisitors()
         {
-            return $"Кол-во посетителей: {totalVisitors}";
+            return totalVisitors;
         }
     }
 }
