@@ -11,16 +11,13 @@ namespace l13
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string name = textBox1.Text.Trim();
-            Visitor v = new Visitor(name);
+            Visitor v1 = new Visitor("Анна");
+            Visitor v2 = new Visitor("Борис");
+            Visitor v3 = new Visitor("Виктор");
 
-            label2.Text += v.PrintInfo() + ", ";
-            textBox1.Text = "";
-        }
+            label2.Text += v1.PrintInfo() + ", " + v2.PrintInfo() + ", " + v3.PrintInfo();
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            label3.Text = "Всего: " + Visitor.totalVisitors;
+            label3.Text = "Всего: " + Visitor.ShowTotalVisitors();
         }
     }
 }
